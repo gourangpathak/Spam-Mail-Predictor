@@ -9,6 +9,5 @@ Google Colab File Link : https://colab.research.google.com/drive/1MmnIIcLWBKINYY
 
 ## Demo of the Predictive Model
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/89131980/190405412-24768c82-a283-4faa-9fde-ed9b3b0d494e.gif" alt="Sublime's custom image"/>
-</p>
+https://user-images.githubusercontent.com/89131980/190406728-df55fa29-2c39-456b-8bb5-d9bb978ee4a4.mp4
+
